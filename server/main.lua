@@ -1,4 +1,4 @@
-QBCore = nil
+QBCore = nill
 
 TriggerEvent('QBCore:GetObject', function(obj) QBCore = obj end)
 
